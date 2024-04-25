@@ -1,0 +1,37 @@
+---
+title: 'Why homeschooling will bring back a greater America'
+date: '2023-10-05'
+excerpt: 'Japanese teaching strategies are among some of the best! The focus isn&apos;t simply about building togetherness but, kids are encouraged to think about society&apos;s inner workings and their role within it all while building a sense of independence. 🧵'
+cover_image: '/img/flag.jpg'
+author: 'Educacia'
+author_profile: '/img/profile.jpg'
+intro: |    
+    The American education system has failed parents for far too long. What was once a serious, rigorous education where kids learned about the origins of their country, strived towards high achievement in both sports and academics and painted their path towards a bright future for themselves and their countrymen has been swept from under us.    
+---
+
+
+Culture is being rewritten before our eyes.  
+When I was growing up the pledge of allegiance was something of a prayer in the morning, though nowadays it’s been replaced with affirmations of victimhood. 
+
+# hello mdx in nextjs
+
+here is a redular paragraph 
+
+here is a list
+
+- one
+- two
+- three
+
+## this is h2 
+
+
+```jsx
+import React, {Fragment} from 'react'
+
+export const MyComponent = () => (
+    
+     <Fragment>
+    <div className="h-[230px] w-[100%] bg-no-repeat bg-cover md:h-[300px] xl:h-[500px] rounded-lg bg-center"  style={{ backgroundImage: `url(${cover_image})` }}></div>
+  </Fragment>
+)
